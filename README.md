@@ -4,14 +4,14 @@ I'm Edward Toledo Lopez a Data enthusiast. I Spend most of time studying about D
 
 Also, I belong to the [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/), a program for the top 0.1% of students. In there, I've been intensely trained about Data Science.
 
-My principal tools are:
+## 🧙‍♂️ My principal tools are:
 
 <p align='center'>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-:mailbox: Reach me out!
+## :mailbox: Reach me out!
 
 <p align='center'>
     <a href="https://twitter.com/Edward_TL"><img  src="https://img.shields.io/badge/Edward_TL%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,8 +27,8 @@ My principal tools are:
 * BI
 * Data Viz
 
-## Top technologies
-### EDA, data analysis, plots and dashboards
+## :computer: Top technologies
+### :art: EDA, data analysis, plots and dashboards
 <p align='center'>
     <a href="https://plotly.com/"><img  src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&labelColor=black&logo=Plotly&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-160458?style=for-the-badge&labelColor=black&logo=Pandas&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +36,7 @@ My principal tools are:
   
 </p>
 
-### Data query tools
+### :crystal_ball: Data query tools
 
 <p align='center'>
     <a href="https://www.elastic.co/es/"><img  src="https://img.shields.io/badge/-ElasticSearch-F2B727?style=for-the-badge&labelColor=black&logo=ElasticSearch&logoColor=F2B727"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
