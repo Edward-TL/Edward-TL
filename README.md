@@ -4,7 +4,14 @@ I love Data analytics and engineering. I Spend most of my time studying on web p
 * Oil and Gas
 * Banking
 * Government and Social Assitance
-<br>
+<be>
+
+## 🤝 I’m looking to collaborate on ...
+* ETL
+* Bussiness Inteligence
+* Exploratory Data Analysis
+* Data Visualization (Dashboards)
+* Machine Learning
 
 <h2> 🧙‍♂️ My principal tools are:</h2>
 <br>
@@ -66,14 +73,6 @@ I love Data analytics and engineering. I Spend most of my time studying on web p
 <br>
 
 <hr>
-
-
-## 🤝 I’m looking to collaborate on ...
-* ETL
-* Bussiness Inteligence
-* Exploratory Data Analysis
-* Data Visualization (Dashboards)
-* Machine Learning
 
 
 
