@@ -1,10 +1,9 @@
 <h1> Hi I'm Edward <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Edward Toledo Lopez a Data enthusiast. I Spend most of time studying about Data engineering, analysis and machine learning in web platforms as Data Camp and Platzi.
-
-Also, I belong to the [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/), a program for the top 0.1% of students. In there, I've been intensely trained about Data Science.
-
-
+I love Data analytics and engineering. I Spend most of my time studying on web platforms such as Data Camp and Platzi. I have experience in industries like:
+* Oil and Gas
+* Banking
+* Government and Social Assitance
 <br>
 
 <h2> 🧙‍♂️ My principal tools are:</h2>
