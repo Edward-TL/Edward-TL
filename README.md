@@ -87,21 +87,22 @@ I love Data analytics and engineering. I Spend most of my time studying on web p
 </summary>
 
 <br >
+I designed a ETL framework and layout in order to make everything easier for everyone. The concept and the tools needed are documented on the repo.
+Right now, I'm working on the next improvements:
+<ul>
+<li>Data apps with Dash.</li>
+<li>Build reports on Power point, and export them to PDF.</li>
+<li>Fill a Word document as an Layout.</li>
+</ul>
 
-I was in charge of the ETL process, which consists of:
-Extracting from the web, without a scraper (because bot check) the Colombian law,
-Transform every text file into json format and,
-Load to ElasticSearch server in AWS cloud and docker container for intercommunication between the other Data Science member.
-
-Because of the Exploratory Data Analysis, adding Natural Language Processing, the json articles have the consideration of separation between ideas. Recognizing them with dots and dot-commas.
-
-If you want to read the procedure, watch the graphs or even run it on your computer, you can visit the repo here:
+If you want to read the procedure, watch the graphs or even run it on your computer, you can visit the repo <strong>will be left here</strong>:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Edward-TL&repo=LegalSearcher)](https://github.com/Edward-TL/LegalSearcher)
 
 
 </details>
 
+<!--
 <details>
 <summary>
   Github Stats
@@ -117,3 +118,4 @@ If you want to read the procedure, watch the graphs or even run it on your compu
 </p>
 
 </details>
+-->
