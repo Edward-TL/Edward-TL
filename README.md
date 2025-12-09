@@ -1,16 +1,18 @@
 <h1> Hi I'm Edward <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 I love Data analytics and engineering. I Spend most of my time studying on web platforms such as Data Camp and Platzi. I have experience in industries like:
-* Oil and Gas
+* Start ups
 * Banking
+* Oil and Gas
 * Government and Social Assitance
+* Business Intelligence in other sectors (miscelaneus, agronomy)
 <be>
 
 ## 🤝 I’m looking to collaborate on ...
 * ETL
 * Bussiness Inteligence
-* Exploratory Data Analysis
-* Data Visualization (Dashboards)
+* Exploratory Data Analysis & Data Visualization (Dashboards)
+* Backend Development with FastAPI or Serverless
 * Machine Learning
 
 <h2> 🧙‍♂️ My principal tools are:</h2>
