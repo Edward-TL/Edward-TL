@@ -1,6 +1,6 @@
 <h1> Hi I'm Edward <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I love Data analytics and engineering. I Spend most of my time studying on web platforms such as Data Camp and Platzi. I have experience in industries like:
+I love Data analytics and engineering. I spend most of my time building automatations for reportering, eda's and bi. I have experience in industries like:
 * Start ups
 * Banking
 * Oil and Gas
