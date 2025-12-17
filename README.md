@@ -64,6 +64,12 @@ I love Data analytics and engineering. I spend most of my time building automata
     <a href="mailto:edward_tl@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
+
+<br>
+
+## :brain: E-Learning>
+Some of the platforms I use where you can take a look of my stats
+
 <p align='center'>
     <a href="https://platzi.com/p/Edward_TL/"><img src="https://img.shields.io/badge/-Platzi-223452?style=for-the-badge&labelColor=223452&logo=Platzi&logoColor=97CA3E"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.datacamp.com/profile/edwardtl"><img src="https://img.shields.io/badge/-Datacamp-09192C?style=for-the-badge&labelColor=09192C&logo=Datacamp&logoColor=03EE62"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
