@@ -67,7 +67,7 @@ I love Data analytics and engineering. I spend most of my time building automata
 
 <br>
 
-## :brain: E-Learning>
+## :brain: E-Learning:
 Some of the platforms I use where you can take a look of my stats
 
 <p align='center'>
