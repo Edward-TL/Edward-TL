@@ -1,129 +1,105 @@
-<h1> Hi I'm Edward <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<div align="center">
 
-I love Data analytics and engineering. I spend most of my time building automatations for reportering, eda's and bi. I have experience in industries like:
-* Start ups
-* Banking
-* Oil and Gas
-* Government and Social Assitance
-* Business Intelligence in other sectors (miscelaneus, agronomy)
-<be>
+[![Español — idioma activo](https://img.shields.io/badge/ES-Espa%C3%B1ol-7C3AED?style=for-the-badge)](./README.md) [![Cambiar a inglés](https://img.shields.io/badge/EN-English-475569?style=for-the-badge)](./README.en.md)
 
-## 🤝 I’m looking to collaborate on ...
-* ETL
-* Bussiness Inteligence
-* Exploratory Data Analysis & Data Visualization (Dashboards)
-* Backend Development with FastAPI or Serverless
-* Machine Learning
+# 👋 Hola, soy Edward
 
-<h2> 🧙‍♂️ My principal tools are:</h2>
-<br>
+### 🤓 Data player · Conecto datos, procesos y decisiones.
 
-<p align='center'>
-    <a href="https://www.python.org/"><img  src="https://img.shields.io/badge/-Python-007FF4?style=for-the-badge&labelColor=black&logo=Python&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://jupyter.org/"><img  src="https://img.shields.io/badge/-Jupyter-F37726?style=for-the-badge&labelColor=black&logo=Jupyter&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/"><img  src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=Git&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/"><img  src="https://img.shields.io/badge/-Github-5C005C?style=for-the-badge&labelColor=black&logo=Github&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+**Data Specialist · Automatización & ERP · Científico de Datos en formación**
 
-</p>
+![TripleTen — formación en Ciencia de Datos en curso](https://img.shields.io/badge/TripleTen-Ciencia_de_Datos_en_formaci%C3%B3n-7C3AED?style=for-the-badge)
 
-<br>
+</div>
 
-### :art: EDA, data analysis, plots and dashboards
-<br>
-<p align='center'>
-    <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-160458?style=for-the-badge&labelColor=black&logo=Pandas&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-Numpy-FFC727?style=for-the-badge&labelColor=black&logo=Numpy&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://plotly.com/"><img  src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&labelColor=black&logo=Plotly&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://public.tableau.com/profile/edward5144#!/?newProfile=&activeTab=0"><img src="https://img.shields.io/badge/-Tableau-224479?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
+---
 
-<br>
+## 🧑‍💻 Sobre mí
 
-### :crystal_ball: Data query tools
-<br>
-<p align='center'>
-    <a href="https://www.elastic.co/es/"><img  src="https://img.shields.io/badge/-ElasticSearch-F2B727?style=for-the-badge&labelColor=black&logo=ElasticSearch&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-Postgresql-316192?style=for-the-badge&labelColor=black&logo=Postgresql&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-EC903B?style=for-the-badge&labelColor=black&logo=Mysql&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
+Mi trayectoria combina **análisis e ingeniería de datos, Business Intelligence y automatización de reportes**. He trabajado con procesos de sectores como startups, banca, Oil & Gas, gobierno, asistencia social y agronomía.
 
-<br>
+Hoy conecto esa experiencia con el desarrollo en **Odoo 19**, la integración de servicios y la automatización de procesos de negocio. Me gusta seguir el recorrido completo de los datos: extraerlos, darles estructura, analizarlos y convertirlos en herramientas útiles para la operación.
 
-<hr>
+🎓 Actualmente me estoy capacitando en **TripleTen para convertirme en Científico de Datos**, ampliando mi formación hacia la estadística y el aprendizaje automático para responder preguntas de negocio.
 
-<br>
+## 🧭 Mi recorrido
 
-## :mailbox: Reach me out!
+| Mi base | Lo que construyo hoy | Hacia dónde voy |
+| :--- | :--- | :--- |
+| ETL, SQL, análisis exploratorio, dashboards y BI. | Integraciones con Odoo, flujos automatizados y reportes operativos. | Ciencia de Datos: combinar contexto de negocio, análisis y modelos. |
 
-<br>
-<p align='center'>
-    <a href="https://twitter.com/Edward_TL"><img  src="https://img.shields.io/badge/Edward_TL%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/edwardtl/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:edward_tl@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
+## ⚙️ En qué estoy trabajando
 
-<br>
+- 🧩 **JARVIS:** desarrollo e integración de módulos Odoo para procesos operativos, proyectos, documentos y gestión contable.
+- 🐝 **Colmena:** integración y orquestación de flujos de datos, con validación, trazabilidad y seguimiento de errores.
+- 📊 **Reportes y visualización:** herramientas en Python y Excel para reducir tareas manuales y comunicar mejor la información.
+- 🔬 **Formación en Ciencia de Datos:** proyectos prácticos de análisis con Python como parte de mi aprendizaje en TripleTen.
 
-## :brain: E-Learning:
-Some of the platforms I use where you can take a look of my stats
+## 🛠️ Mi caja de herramientas
 
-<p align='center'>
-    <a href="https://platzi.com/p/Edward_TL/"><img src="https://img.shields.io/badge/-Platzi-223452?style=for-the-badge&labelColor=223452&logo=Platzi&logoColor=97CA3E"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.datacamp.com/profile/edwardtl"><img src="https://img.shields.io/badge/-Datacamp-09192C?style=for-the-badge&labelColor=09192C&logo=Datacamp&logoColor=03EE62"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/edward_toledo_l1"><img src="https://img.shields.io/badge/-Hackerrank-0D141E?style=for-the-badge&labelColor=0D141E&logo=Hackerrank&logoColor=00EA64"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+### 🐍 Análisis y visualización
 
-</p>
-<!-- TODO: Add last video link -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-<br>
+### 🔌 Datos, backend y automatización
 
-<hr>
+![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Odoo 19](https://img.shields.io/badge/Odoo_19-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windmill](https://img.shields.io/badge/Windmill-4F46E5?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+### 📑 Reportes y colaboración
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![openpyxl](https://img.shields.io/badge/openpyxl-15803D?style=for-the-badge)
+![XlsxWriter](https://img.shields.io/badge/XlsxWriter-166534?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Before Adding to the paragraphs, try the markdown way
+También he trabajado con **Tableau, MySQL y Elasticsearch** en proyectos de BI, consulta y búsqueda de información.
 
-![ElasticSearch Badge](https://img.shields.io/badge/-ElasticSearch-F2B727?style=for-the-badge&labelColor=black&logo=ElasticSearch&logoColor=F2B727) 
--->
+## 🚀 Proyectos públicos
+
+Una selección que conecta mis exploraciones en datos con las herramientas que desarrollo para automatizar procesos:
+
+| Proyecto | Qué encontrarás |
+| :--- | :--- |
+| 🔎 [LegalSearcher](https://github.com/Edward-TL/LegalSearcher) | ETL, exploración de texto y búsqueda sobre la Constitución de Colombia con Elasticsearch y embeddings. |
+| 🏗️ [DataProject_template](https://github.com/Edward-TL/DataProject_template) | Una base para organizar procesos ETL, conexiones, transformaciones y carga de datos. |
+| 🎨 [plotly_toolbox](https://github.com/Edward-TL/plotly_toolbox) | Herramientas reutilizables para crear visualizaciones con Plotly a partir de DataFrames. |
+| 📈 [excel_charts](https://github.com/Edward-TL/excel_charts) | Gráficas de Excel con Python y XlsxWriter mediante una interfaz orientada a objetos. |
+| 🧾 [facturas_xml](https://github.com/Edward-TL/facturas_xml) | Extracción y estructuración de datos de archivos XML de facturas CFDI mexicanas. |
+| 🧩 [odoo_apps](https://github.com/Edward-TL/odoo_apps) | Cliente Python para interactuar con modelos y operaciones de Odoo mediante XML-RPC. |
+
+## 🤝 Conversemos
+
+Me interesa colaborar en **ETL, automatización, BI, análisis exploratorio, visualización y aplicaciones de datos**. También busco seguir aprendiendo y desarrollar proyectos de Machine Learning.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward_Toledo-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/edwardtl/)
+[![Correo electrónico](https://img.shields.io/badge/Email-edward__tl%40hotmail.com-7C3AED?style=for-the-badge)](mailto:edward_tl@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Edward--TL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edward-TL)
 
 <details>
-<summary>
-  About last project
-</summary>
+<summary>🧠 Otros espacios de aprendizaje</summary>
 
-<br >
-I designed a ETL framework and layout in order to make everything easier for everyone. The concept and the tools needed are documented on the repo.
-Right now, I'm working on the next improvements:
-<ul>
-<li>Data apps with Dash.</li>
-<li>Build reports on Power point, and export them to PDF.</li>
-<li>Fill a Word document as an Layout.</li>
-</ul>
-
-If you want to read the procedure, watch the graphs or even run it on your computer, you can visit the repo <strong>will be left here</strong>:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Edward-TL&repo=LegalSearcher)](https://github.com/Edward-TL/LegalSearcher)
-
+[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/Edward_TL/)
+[![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=05192D)](https://www.datacamp.com/profile/edwardtl)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/edward_toledo_l1)
 
 </details>
 
-<!--
-<details>
-<summary>
-  Github Stats
-</summary>
+---
 
-<br >
+<div align="center">
 
+**💡 Entender el negocio. Automatizar el proceso. Aprender de los datos.**
 
-![Edward's github stats](https://github-readme-stats.vercel.app/api?username=Edward-TL&theme=dracula)
-<p>
-  <a href="https://github.com/Edward-TL/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Edward-TL.Edward-TL&label=Visitor%20Counter&labelColor=black&logo=GitHub&logoColor=FFFFFF&color=black&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Edward-TL/"><img src="https://img.shields.io/github/followers/Edward-TL?color=5C005C&logo=Github&logoColor=FFFFFF&style=for-the-badge&labelColor=5C005C"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-</details>
--->
+</div>
